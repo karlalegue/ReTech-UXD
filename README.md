@@ -17,9 +17,11 @@ User experience design for ReTech application to donate recycled electronic devi
 
 ## Description
 
-The problem to be solved is the accumulation of electronic devices that people keep. Where most of them are still working or some reasons may be that the person bought another device or no longer uses the electronic device.  Such as cell phones, computers, chargers, etc. The solution we found is to find a new life for these electronic devices, for a person in need or to recycle the device in order to reuse its parts.
+At Universidad de La Frontera, many students have unused electronic devices that are still working, but do not have an adequate platform to donate or exchange them in a simple and safe way with other students who might need them.
 
-Through a mobile application, where the user will publish the electronic devices that are not used and locate recycling points that receive electronic devices that work. You publish your device and if a user is interested there will be a communication space to decide a meeting point and make the delivery.
+This lack of an efficient connection channel limits the reuse of devices, generates unnecessary accumulation of electronic waste and misses opportunities for student solidarity.
+
+In addition, there is little knowledge about the recycling points available in the city, which hinders the responsible management of this equipment. This situation highlights the need for a solution that facilitates responsible sharing, promotes environmental awareness and contributes to the circular economy within the university environment.
 
 ## Strategy
 
